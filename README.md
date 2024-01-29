@@ -14,5 +14,5 @@ pip install --upgrade pip
 5. Install required packages.
 ```bash
 pip install "psycopg[binary,pool]"
-pip install psycopg2-binary pgcli pandas SQLAlchemy jupyter
+pip install pandas SQLAlchemy jupyter psycopg2-binary pgcli
 ```
